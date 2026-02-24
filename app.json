@@ -3,6 +3,7 @@
     "name": "RNcinebook",
     "slug": "RNcinebook",
     "version": "1.0.0",
+    "scheme": "cinefolio",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
